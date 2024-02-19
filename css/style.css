@@ -1,0 +1,54 @@
+
+header{
+    background-image: url(../img/pattern.png);
+    background-color: #4BA4F2;
+    
+}
+
+.booleaner{
+    color: #8AD2F1;
+}
+
+.gray{
+    color: gray;
+}
+.evidenziato{
+    background-color: yellow;
+}
+
+table{
+    border-spacing: 0;
+}
+th{
+    color: white;
+}
+.line{
+    background-color: #4BA4F2;
+    
+}
+
+.line-lightblue{
+    background-color: #B3ECF2;
+}
+.w-25{
+    width: 25%;
+}
+
+th{
+    text-align: left;
+}
+
+.mb{
+    margin-bottom: 30px;
+}
+
+.backimg1{
+    background-image: url(../img/monitor.jpg);
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+.backimg2{
+    background-image: url(../img/graph.jpg);
+}
